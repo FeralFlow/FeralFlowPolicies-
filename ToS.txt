@@ -1,0 +1,130 @@
+Last updated: [06/04/2025]
+Welcome to Maliba Entertainment's services, including but not limited to our games, applications, and
+websites (collectively, the "Services"). By accessing or using any of our Services, you agree to be
+bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use our
+Services.
+1. Acceptance of Terms
+1.1. By using our Services, you affirm that you are at least 10 years old
+and meet any other eligibility requirements of your jurisdiction.
+1.2. If you are between 10 and 18 years old, you represent that your legal guardian has
+reviewed and agreed to these Terms.
+1.3. You acknowledge that these Terms constitute a binding agreement between you and
+Maliba Entertainment ("we," "us," or "our").
+2. License and Use of Services
+2.1. We grant you a limited, non-exclusive, non-transferable, revocable license to use
+our Services for your personal, non-commercial entertainment purposes.
+2.2. You agree not to:
+a) Copy, distribute, or reproduce our Services in any way
+b) Modify, adapt, translate, reverse engineer, decompile, or disassemble our Services
+c) Create derivative works based on our Services
+d) Remove any proprietary notices or labels on our Services
+e) Use our Services for any commercial purpose without our express written consent
+3. User Accounts
+3.1. Some Services may require you to create an account. You are responsible for
+maintaining the confidentiality of your account information.
+3.2. You agree to provide accurate and complete information when creating your account
+and to update this information as necessary.
+3.3. You are solely responsible for all activities that occur under your account.
+3.4. We reserve the right to terminate or suspend your account at any time for any
+reason, including violation of these Terms.
+4. In-App Purchases and Virtual Items
+4.1. Our Services may offer the opportunity to purchase virtual items or currency
+("Virtual Items") for use within the Services.
+4.2. Virtual Items are licensed to you and do not constitute property. You acknowledge
+that you do not own these Virtual Items and that your license to use them is limited and revocable.
+4.3. There are two types of Virtual Item purchases:
+a) Immediate Consumption: These items are granted to you
+immediately upon purchase and are consumed or used within the Service. Once used, they cannot be
+refunded or transferred.
+b) Account-Bound: These items are permanently associated with
+your account and remain available for your use as long as your account is active and in good
+standing.
+4.4. In-app purchases are final and non-refundable,
+except as required by applicable law.
+4.5. Parents and guardians are responsible for any in-app purchases made by minors using
+their account.
+5. User Conduct
+5.1. You agree to use our Services in compliance with all applicable laws and
+regulations.
+5.2. You will not engage in any of the following
+prohibited activities:
+a) Cheating, using exploits, or manipulating game mechanics
+b) Harassing, bullying, or intimidating other users
+c) Impersonating other users or Maliba Entertainment staff
+d) Sharing personal information of others without their consent
+e) Any activity that disrupts the normal functioning of our Services
+f) Uploading or transmitting any content that is unlawful, harmful, threatening, abusive, harassing,
+defamatory, vulgar, obscene, or otherwise objectionable
+6. Modding and Third-Party Software
+6.1. Modding of any kind is STRICTLY PROHIBITED.
+This includes but is not limited to:
+a) Altering game files or application data
+b) Creating or using custom content not officially supported by our Services
+c) Using third-party software to modify gameplay, assets, or functionality
+6.2. Use of any unauthorized third-party software, including but not limited to cheats,
+bots, or hacks, is expressly forbidden.
+6.3. Violation of these modding and third-party software restrictions may result in
+immediate termination of your license to use our Services.
+7. Virtual Reality Safety (where
+applicable)
+7.1. For VR Services, you acknowledge that use of virtual reality equipment carries
+inherent risks, including potential physical injury, discomfort, or motion sickness.
+7.2. You agree to:
+a) Follow all safety guidelines provided with your VR equipment
+b) Ensure your play area is clear of obstacles
+c) Take regular breaks to avoid extended periods of VR use
+d) Discontinue use if you experience any discomfort or adverse effects
+7.3. Maliba Entertainment is not responsible for any injuries or damages resulting from
+your use of VR equipment while using our Services.
+8. Age Requirements and Restrictions
+8.1. In compliance with Meta's requirements and other applicable regulations:
+a) Users must be at least 10 years old to use our Services.
+b) Users between 10 and 13 years old may be subject to additional restrictions or require parental
+consent for certain features.
+c) Some Services or content may have higher age restrictions, which will be clearly indicated.
+8.2. We reserve the right to verify your age and to restrict or terminate access if we
+have reason to believe you do not meet the age requirements.
+9. Intellectual Property
+9.1. All intellectual property rights in our Services, including but not limited to
+copyrights, trademarks, and trade secrets, are owned by Maliba Entertainment or our licensors.
+9.2. You agree not to use, copy, or distribute any content from our Services without our
+express written permission.
+10. User Content
+10.1. Some Services may allow you to submit or upload content ("User Content"). You
+retain ownership of your User Content.
+10.2. By submitting User Content, you grant us a worldwide, non-exclusive, royalty-free
+license to use, reproduce, modify, adapt, publish, translate, and distribute your User Content in any
+existing or future media.
+10.3. You represent and warrant that your User Content does not violate any third-party
+rights and complies with these Terms.
+11. Privacy
+11.1. Your use of our Services is also governed by our Privacy Policy, which is
+incorporated into these Terms by reference.
+12. Updates and Modifications
+12.1. We reserve the right to update, modify, or discontinue any of our Services at any
+time without notice.
+12.2. We may also update these Terms from time to time. Continued use of our Services
+after any such changes constitutes your acceptance of the new Terms.
+13. Termination
+13.1. We reserve the right to terminate or suspend your access to our Services at any
+time, without notice, for any reason, including violation of these Terms.
+14. Disclaimer of Warranties
+14.1. OUR SERVICES ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED.
+14.2. We do not guarantee that our Services will be uninterrupted, secure, or
+error-free.
+15. Limitation of Liability
+15.1. TO THE MAXIMUM EXTENT PERMITTED BY LAW, MALIBA ENTERTAINMENT SHALL NOT BE LIABLE
+FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO
+YOUR USE OF OUR SERVICES.
+16. Governing Law and Dispute
+Resolution
+16.1. These Terms shall be governed by and construed in accordance with the laws of
+Israel, without regard to its conflict of law provisions.
+16.2. Any disputes arising from or relating to these Terms or our Services will be
+resolved through binding arbitration, except where prohibited by law.
+17. Contact Information
+17.1. For any questions regarding these Terms, please contact us at
+support@malibaentertainment.com.
+By using any of Maliba Entertainment's Services, you acknowledge that you have read, understood, and
+agree to be bound by these Terms of Service.
